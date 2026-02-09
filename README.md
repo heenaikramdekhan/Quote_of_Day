@@ -2,10 +2,6 @@
 
 A beautiful cross-platform mobile application built with Flutter that curates, displays, and shares memorable and inspirational quotes to motivate and inspire users every day.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 [![GitHub stars](https://img.shields.io/github/stars/heenaikramdekhan/Quote_of_Day?style=social)](https://github.com/heenaikramdekhan/Quote_of_Day/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/heenaikramdekhan/Quote_of_Day?style=social)](https://github.com/heenaikramdekhan/Quote_of_Day/network/members)
